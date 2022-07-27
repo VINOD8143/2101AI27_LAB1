@@ -6,3 +6,6 @@ int main()
    scanf(%f%f,&x,&y);
    
 }
+ int opn;
+  printf("Select the operation (1 for +, 2 for -, 3 for *, 4 for /) = ");
+  scanf("%d",&opn);
